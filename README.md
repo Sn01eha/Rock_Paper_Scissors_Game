@@ -13,10 +13,10 @@ git clone https://github.com/Sn01eha/Rock_Paper_Scissors_Game.git
 cd rps
 
 Compile the Java files:
-javac rps.java
+javac rpc.java
 
 Run the game:
-java RockPaperScissors
+java rpc
 
 🎯 How to Play
 The player chooses Rock, Paper, or Scissors.
