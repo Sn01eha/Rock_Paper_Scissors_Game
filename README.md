@@ -9,8 +9,25 @@ Score tracking (if applicable)
 
 📦 Installation & Setup
 Clone the repository:
-git clone https://github.com/yourusername/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/Sn01eha/rock-paper-scissors.git
+cd rps
 
 Compile the Java files:
-javac RockPaperScissors.java
+javac rps.java
+
+Run the game:
+java RockPaperScissors
+
+🎯 How to Play
+The player chooses Rock, Paper, or Scissors.
+The computer randomly selects its choice.
+The winner is determined by the standard Rock Paper Scissors rules:
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+The game announces the result and may continue based on user input.
+
+🚀 Future Enhancements (Optional)
+Add a GUI using Java Swing or JavaFX
+Implement multiplayer support
+Keep track of win/loss history
