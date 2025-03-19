@@ -9,7 +9,7 @@ Score tracking (if applicable)
 
 📦 Installation & Setup
 Clone the repository:
-git clone https://github.com/Sn01eha/rock-paper-scissors.git
+git clone https://github.com/Sn01eha/Rock_Paper_Scissors_Game.git
 cd rps
 
 Compile the Java files:
